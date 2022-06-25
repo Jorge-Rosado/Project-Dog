@@ -1,0 +1,84 @@
+.title {
+    font-family: 'Montserrat', sans-serif;
+    display: flex;
+    justify-content: flex-start;
+    padding: 5px;
+    border: 2px solid black;
+}
+
+.menu1 {
+    display: flex;
+    justify-content: space-around;
+    background-color: #e6ccb8;
+    margin: 0px 0px 20px 0px;
+    font-family: 'Montserrat', sans-serif;
+    border: 2px solid black;
+}
+
+.item1 {
+    border: 2px solid black;
+    border-image: linear-gradient(to bottom, #e4dacf, #624a2d) 0 1;
+    padding: 0px 20px 0px 20px;
+}
+
+.everything {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.bubbyd {
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    flex-flow: row nowrap;
+}
+
+.bubbyimg {
+    margin: 10px 10px 10px 10px;
+}
+
+.bubbyl {
+    font-family: 'Montserrat', sans-serif;
+    line-height: 3.7;
+    width: 254px;
+    margin: 0px 0px 0px 0px;
+
+}
+
+.bubbyp {
+    font-size: 22px;
+    text-align: center;
+    line-height: 2em;
+}
+
+.bubbypd {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.half2 {
+    display:flex;
+}
+
+.column {
+    margin: 10px 10px 10px 0px;
+    border: 2px solid black;
+    padding: 0px 18px 0px 18px;
+}
+
+.main-imgs {
+    border: 2px solid black;
+    margin: 10px 10px 10px 10px;
+}
+
+p {
+    font-family: 'Lato', sans-serif;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+body {
+    background-color: #fef5ee;
+}
